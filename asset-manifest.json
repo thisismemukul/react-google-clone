@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-google-clone/static/css/main.34f9a49f.chunk.css",
+    "main.js": "/react-google-clone/static/js/main.7af9aa8c.chunk.js",
+    "main.js.map": "/react-google-clone/static/js/main.7af9aa8c.chunk.js.map",
+    "runtime-main.js": "/react-google-clone/static/js/runtime-main.944d9455.js",
+    "runtime-main.js.map": "/react-google-clone/static/js/runtime-main.944d9455.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/react-google-clone/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.ac2e34d7.chunk.js": "/react-google-clone/static/js/2.ac2e34d7.chunk.js",
+    "static/js/2.ac2e34d7.chunk.js.map": "/react-google-clone/static/js/2.ac2e34d7.chunk.js.map",
+    "index.html": "/react-google-clone/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/react-google-clone/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.34f9a49f.chunk.css.map": "/react-google-clone/static/css/main.34f9a49f.chunk.css.map",
+    "static/js/2.ac2e34d7.chunk.js.LICENSE.txt": "/react-google-clone/static/js/2.ac2e34d7.chunk.js.LICENSE.txt",
+    "static/media/googleLogo.dc93deb3.svg": "/react-google-clone/static/media/googleLogo.dc93deb3.svg",
+    "static/media/googleSearchLogo.ff396764.svg": "/react-google-clone/static/media/googleSearchLogo.ff396764.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.944d9455.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.ac2e34d7.chunk.js",
+    "static/css/main.34f9a49f.chunk.css",
+    "static/js/main.7af9aa8c.chunk.js"
+  ]
+}
