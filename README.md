@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://github.com/thisismemukul/react-google-clone/blob/main/public/img/tutorial.gif" alt="Google search clone" title="Google clone show gif" width="500"/>
 </p>
-<h3> Website Link 🔗: https://thisismemukul.github.io/react-google-clone</h3>
+<h3> Website Link 🔗: https://reactgoogleclone.netlify.app/</h3>
 User can Search any query just like google. Users can see the query results.
 <h4>* Tech Stack used:</h4>
 <ul>
